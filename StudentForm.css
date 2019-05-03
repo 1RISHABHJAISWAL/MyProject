@@ -1,0 +1,40 @@
+﻿body {
+}
+#accordion {
+    width: 811px;
+    height: 481px;
+    margin-left: 99px;
+    margin-bottom: 38px;
+    margin-right: 3px;
+}
+
+.newStyle1 {
+    background-color: DodgerBlue;
+    color: white;
+    font-family: "MS Reference Sans Serif";
+    width: 1048px;
+}
+
+.newStyle2 {
+    font-family: "MS Reference Sans Serif";
+    color: white;
+    background-color: DodgerBlue;
+    width: 1052px;
+}
+
+.newStyle3 {
+    font-family: "MS Reference Sans Serif";
+    color: white;
+    background-color: DodgerBlue;
+    width: 1051px;
+}
+
+#form1 {
+    height: 570px;
+    width: 1150px;
+    margin-left: 36px;
+}
+
+.newStyle4 {
+    font-family: "MS Reference Sans Serif";
+}
